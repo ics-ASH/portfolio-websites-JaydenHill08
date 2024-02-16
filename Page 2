@@ -5,5 +5,13 @@
 <body style="background-color:rgb(247, 0, 25);>
 <p>These words are a place holder for later</p>
 <h2>&#128511;</h2>
-<a href="http://127.0.0.1:3000/index.html">Last page</a>
-<a href="http://127.0.0.1:3000/Page%203">Next page</a>
+<p><a href="http://127.0.0.1:3000/index.html">Last page</a>
+<a href="http://127.0.0.1:3000/Page%203">Next page</a></body></p>
+<style>
+    h1 {text-align: center;}
+    p {text-align: center;}
+    div {text-align: center;}
+    h2 {text-align: center;}
+    </style>
+    </head>
+    <body>
