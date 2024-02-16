@@ -4,5 +4,13 @@
 <Title>P.G4 Jayden`s Portfolio</Title> 
 <p>Another place holder</p>
 <h2>&#128511;</h2>
-<a href="http://127.0.0.1:3000/Page%203">Last page</a>
+<p><a href="http://127.0.0.1:3000/Page%203">Last page</a></p>
 <body style="background-color:rgb(247, 0, 25);>
+<style>
+    h1 {text-align: center;}
+    p {text-align: center;}
+    div {text-align: center;}
+    h2 {text-align: center;}
+    </style>
+    </head>
+    <body>
